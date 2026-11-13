@@ -1,0 +1,18 @@
+schema_version: 1
+slides:
+  - slide_uid: S001
+    current_page: 1
+    source_page: 1
+    source_part: ""
+    order_reference_page: 1
+    current_title: ""
+    section: ""
+    key_photo_or_document: ""
+    matching_basis: "标题、关键照片与内容人工确认"
+    match_status: not_checked
+    desired_page: 1
+    requirements: []
+    protected_elements: []
+    revision_notes: []
+    preview_path: ""
+    visual_check: not_checked

@@ -1,0 +1,75 @@
+# 复制为本项目工作合同，不要直接套用历史人物/学校/页数。
+schema_version: 1
+project_name: ""
+revision_name: ""
+task_mode: edit_deck  # edit_deck / workflow_only / review_only
+base:
+  source_ref: ""
+  source_version: ""
+  source_path: ""
+  source_sha256: ""
+  working_copy_path: ""
+  order_reference_path: ""
+  expected_slide_count: null
+  aspect_ratio: preserve_original
+scope:
+  target_sections: []
+  target_slide_uids: []
+  requested_operations: []
+  protected_objects: []
+  rejected_variants: []
+  other_projects_read_only: true
+identity:
+  audience: ""
+  event_or_purpose: ""
+  occupation_or_product: ""
+  industry_or_application: ""
+  project_adapter: generic  # generic / career / food_innovation
+visual_contract:
+  title_font: Microsoft YaHei
+  title_font_alias: 微软雅黑
+  title_bold: true
+  body_font: preserve_confirmed
+  actual_font_available: not_checked
+  preserve_approved_art_lettering: true
+  preserve_existing_palette: true
+  palette_hex: {}
+  heading_sentence_style: true
+  no_codes_in_main_titles: true
+  logo_asset_id: ""
+  logo_safe_margin: preserve_or_adjust_as_requested
+media_policy:
+  real_assets_only: true
+  ai_image_generation: false
+  preserve_face_and_event_facts: true
+  no_certificate_modification: true
+data_policy:
+  missing_values: do_not_invent
+  estimates_allowed: false
+  visible_estimate_label_required: true
+  keep_sources_and_calculations: true
+orchestration:
+  subagent_capability: not_checked
+  main_writer: ""
+  aliases:
+    - 数据核验
+    - 内容审校
+    - 视觉编辑
+outputs:
+  editable_pptx: true
+  image_pptx: true
+  preview_pages: []
+  image_width_px: 3840
+  image_height_px: derive_from_aspect_ratio
+  image_deck_max_bytes: 50000000
+  include_source_archive: as_requested
+  include_font_files: false
+quality:
+  structure: not_checked
+  evidence: not_checked
+  page_mapping: not_checked
+  native_editability: not_checked
+  font_rendering: not_checked
+  visual_every_page: not_checked
+  dual_export: not_checked
+  download_path_exists: not_checked

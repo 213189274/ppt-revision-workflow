@@ -1,0 +1,20 @@
+schema_version: 1
+assets:
+  - asset_id: A001
+    title: ""
+    type: photo  # photo / certificate / official_screenshot / logo / chart / diagram
+    provenance: user_original  # user_original / official / verified_public / design_schematic / unverified
+    source_ref_or_url: ""
+    source_date: ""
+    retrieval_date: ""
+    original_path: ""
+    original_sha256: ""
+    resolution_px: [0, 0]
+    transparent: null
+    intended_slide_uids: []
+    intended_caption: ""
+    allowed_processing: [crop, rotate, resize]
+    performed_processing: []
+    rights_or_usage_notes: ""
+    preserves_factual_content: not_checked
+    verification_status: not_checked

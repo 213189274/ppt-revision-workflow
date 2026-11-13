@@ -1,0 +1,25 @@
+schema_version: 1
+datasets:
+  - data_id: D001
+    metric: ""
+    unit: ""
+    population_or_sample: ""
+    geography: ""
+    period_start: ""
+    period_end: ""
+    complete_period: null
+    source_ref_or_url: ""
+    source_page_or_table: ""
+    source_date: ""
+    retrieval_date: ""
+    raw_data_path: ""
+    deduplication_rule: ""
+    transformations: []
+    formulas: []
+    missing_values: []
+    estimated_points: []
+    estimation_method: ""
+    visible_disclosure: ""
+    scope_limitations: ""
+    intended_slide_uids: []
+    verification_status: not_checked

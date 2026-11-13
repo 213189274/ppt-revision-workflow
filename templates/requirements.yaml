@@ -1,0 +1,18 @@
+schema_version: 1
+requirements:
+  - id: R001
+    user_wording: ""
+    received_order: 1
+    scope: ""
+    slide_uids: []
+    object_selector: ""
+    operation: replace_text  # replace_text / font / layout / image / reorder / merge / global_logic
+    before: ""
+    after: ""
+    preserve: []
+    supersedes: []
+    conflicts_with: []
+    status: pending  # pending / in_progress / implemented / verified / blocked / superseded
+    verification_method: ""
+    verification_evidence: ""
+    remaining_issue: ""
